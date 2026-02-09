@@ -2,7 +2,7 @@ Package: pumBayes
 Type: Package
 Title: Bayesian Estimation of Probit Unfolding Models for Binary
         Preference Data
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: c(person("Skylar", "Shi", role = c("aut", "cre"), 
                     email = "dshi98@uw.edu",
                     comment = c(ORCID = "0009-0001-2818-0299")),
@@ -26,10 +26,10 @@ URL: https://github.com/SkylarShiHub/pumBayes
 BugReports: https://github.com/SkylarShiHub/pumBayes/issues
 Language: en
 NeedsCompilation: yes
-Packaged: 2025-10-23 02:38:24 UTC; skylar
+Packaged: 2026-02-09 06:29:20 UTC; skylar
 Author: Skylar Shi [aut, cre] (ORCID: <https://orcid.org/0009-0001-2818-0299>),
   Abel Rodriguez [aut] (ORCID: <https://orcid.org/0000-0001-5503-7394>),
   Rayleigh Lei [aut] (ORCID: <https://orcid.org/0000-0002-0444-9708>),
   Jonathan Olmsted [cph]
 Repository: CRAN
-Date/Publication: 2025-10-23 02:50:02 UTC
+Date/Publication: 2026-02-09 08:20:02 UTC

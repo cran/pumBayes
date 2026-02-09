@@ -1,4 +1,4 @@
-381246cb56e35dac05f28947a43c7961 *DESCRIPTION
+425420c019bb767e9647d53f5900da96 *DESCRIPTION
 8ba3000857707464d7ad5c8561406a1d *NAMESPACE
 3b2126011d67ff3c8fb08a0c11a4e975 *R/RcppExports.R
 d95a5028f15f53bbef40d8b1cce070d9 *R/calc_waic.R
@@ -12,10 +12,10 @@ e31324ef179617f15cb0b32cd5646321 *R/predict_pum.R
 0e466c47747ee3ee4b153e5d03a26194 *R/preprocess_rollcall.R
 d9eb4ceb9bb7b3961d7cdbf7209d6476 *R/sample_pum_dynamic.R
 869d5691ad0e8821396f11c4c219bbeb *R/sample_pum_static.R
-7bd973cda48baa531b56955cfb01af1c *R/scotus.1937.2021.R
+8ebf8b26cb0059fcf487794b54a4c430 *R/scotus.1937.2021.R
 abeb2f82f56a02a13f744d220ff2f85a *R/tune_hyper.R
 b59d436c533f695b8ad0a723f16499b5 *R/utils.R
-25161882d294982e599050b0b6c8be86 *README.md
+667216408e8537ec99cc6ebf0a023af3 *README.md
 e13808af26f881e86fc4b8d93362060f *data/h116.rda
 406185aa13913d4a89e809714c9411f2 *data/scotus.1937.2021.rda
 ad82197c7597b4279c05f11b0df5a6c0 *man/calc_waic.Rd
@@ -29,11 +29,11 @@ ad82197c7597b4279c05f11b0df5a6c0 *man/calc_waic.Rd
 456f94cd1facf4b77139adcd014ccc09 *man/preprocess_rollcall.Rd
 5abbb9c52dbf2465acbc73a310b59094 *man/sample_pum_dynamic.Rd
 706182037bee93faeeb21f9e8bc1b33a *man/sample_pum_static.Rd
-c80319da1cfab07827e0f7980f1276f7 *man/scotus.1937.2021.Rd
+547ee68ef0bbc132bdfdbbe3658b876d *man/scotus.1937.2021.Rd
 98e3b9d918c4bd5ce9ff0b0e1770c98d *man/tune_hyper.Rd
 2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
 72568bd5c4997964e95478cd0fd12ef2 *src/Makevars.win
 d67bc5d73eeb78bb41bdb9173290b36d *src/RcppExports.cpp
 2f40365002470deae81cb9e26de4c575 *src/rtn1.cpp
 100187be22a56500356cedd327206582 *src/rtn1.h
-211527a541927c8dc1af369c9175c060 *src/three_utility_probit_helper_functions.cpp
+92c37e8fd9d4b8699f40b41865933c99 *src/three_utility_probit_helper_functions.cpp
